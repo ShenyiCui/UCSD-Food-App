@@ -15,11 +15,9 @@ _Application Description_
 
 ## Documentation
 
-- [**Live Site**]()
-- [**Figma Design**]()
+- [**Live Site**](https://main--wonderful-biscotti-c160b3.netlify.app/)
 
 ### File Structure and Naming Convention
-
 ```
 src/
 ├─ api/
